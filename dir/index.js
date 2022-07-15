@@ -1,1 +1,1 @@
-console.log('bug',bug)
+console.log('bug1',bug)
